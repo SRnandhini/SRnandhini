@@ -1,7 +1,7 @@
 - Hi, I’m @SRnandhini
 - I’m interested in python
 - 🌱 I’m currently pursuing bachelor of Engineering 
--  I’m looking to collaborate on projects
+-  I’m looking for intership
 -  How to reach me through mail
 
 <!---
