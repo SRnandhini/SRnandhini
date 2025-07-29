@@ -70,7 +70,7 @@
 ## 🌸 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)  
-🌐 Portfolio coming soon...  
+🌐 https://srnandhini.github.io/PORTFOLIO/
 📩 Feel free to reach out for collaboration on frontend + ECE-based projects
 
 <p align="center">
