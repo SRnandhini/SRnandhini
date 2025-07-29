@@ -1,31 +1,5 @@
-<h1 align="center">
-  Hi there 👋, I'm Nandhini
-</h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Engineer;Web+Developer+in+Training;Love+React+%26+NodeJS&center=true&width=380&height=45">
-  </a>
-</p>
-![Nandhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandhinisr&show_icons=true&theme=radical)
 
-### Hi there 👋 I'm Nandhini!
-- 💻 Electronics & Communication Engineer
-- 🔭 Currently learning React, Node.js & MySQL
-- 💡 Passionate about building full-stack web apps
-### 🛠️ Tech Stack:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Hi,%20I'm%20Nandhini!&fontSize=40&fontAlignY=35&desc=Full-Stack%20Learner&descAlignY=60&descAlign=62"/>
-</p>
-![Visitor Badge](https://komarev.com/ghpvc/?username=nandhinisr&style=flat-square&color=blue)
-<details>
-  <summary>📚 Certifications</summary>
-  - Java Full Stack - Coursera  
-  - Python for AI - Infosys Springboard
-</details>
 <!-- GitHub Profile README for Nandhini -->
 
 <p align="center">
@@ -74,9 +48,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 
 ---
@@ -96,6 +68,9 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)  
 🌐 Portfolio coming soon...  
 📩 Feel free to reach out for collaboration on frontend + ECE-based projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Hi,%20I'm%20Nandhini!&fontSize=40&fontAlignY=35&desc=Full-Stack%20Learner&descAlignY=60&descAlign=62"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,000000&height=150&section=footer"/>
