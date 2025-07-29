@@ -3,6 +3,10 @@
 <!-- GitHub Profile README for Nandhini -->
 
 <p align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Hi,%20I'm%20Nandhini!&fontSize=40&fontAlignY=35&desc=Full-Stack%20Learner&descAlignY=60&descAlign=62"/>
+
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,000000&height=200&section=header&text=Hi%20There%20👋%20I'm%20Nandhini&fontColor=ffffff&fontSize=40" />
 </p>
 
@@ -26,7 +30,7 @@
 ## ✨ About Me
 
 🎓 ECE student passionate about front-end development.  
-🧠 Currently learning **React.js**, **Express**, and **MongoDB**  
+🧠 Currently learning ** FRONT END DEVELOPING ** and ** DESIGNING **
 💼 Working on mini-projects that blend engineering logic with web development  
 🌐 Building interactive UI with a creative eye for design  
 
@@ -68,9 +72,6 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)  
 🌐 Portfolio coming soon...  
 📩 Feel free to reach out for collaboration on frontend + ECE-based projects
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Hi,%20I'm%20Nandhini!&fontSize=40&fontAlignY=35&desc=Full-Stack%20Learner&descAlignY=60&descAlign=62"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,000000&height=150&section=footer"/>
