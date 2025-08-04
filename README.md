@@ -8,16 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&height=50&lines=Exploring+Frontend+and+Backend+Tech✨;Building+creative+projects+with+React+and+MongoDB🛠️;Passionate+about+design+%26+clean+code💡;Welcome+to+my+tech+space!💻" />
 </h3>
 
-<!-- 🎯 Connect and Profile Stats -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nandhinisr&style=for-the-badge&color=c77dff&label=PROFILE+VIEWS" />
-</p>
+
 
 <!-- 💜 Small Bio Section -->
 <p align="center">
@@ -29,15 +20,25 @@
 
 
 ## 🧠 Play My Memory Card Game!
+<!-- 🧠 Memory Game Section -->
+<h2 align="center">🧠 Try My Brain Teaser Game</h2>
 
 <p align="center">
-  <iframe src="https://srnandhini.github.io/memory-game/" width="380" height="440" style="border:2px solid #8a2be2; border-radius:12px;">PBRAIN TEASER</iframe>
+  <a href="https://srnandhini.github.io/memory-game/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/122832412/266431147-5b676c60-c7e5-42d6-8f15-4536c0ff1cb9.gif" width="360" alt="Memory Game Preview" style="border-radius: 12px; border: 2px solid #8a2be2;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://srnandhini.github.io/memory-game/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Now-Memory%20Game-8a2be2?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+in+Training;React+%7C+HTML+%7C+CSS+%7C+JavaScript;ECE+Student+%7C+Mini+Project+Builder;Open+to+Collaboration+%F0%9F%8E%8A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+in+Training;React+%7C+HTML+%7C+CSS+%7C+JavaScript;ECE+Student+%7C+Idea+Creator;Open+to+Collaboration+%F0%9F%8E%8A" />
 </p>
 
 ---
