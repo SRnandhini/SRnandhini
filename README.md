@@ -1,37 +1,37 @@
-<!-- Redesigned GitHub Profile README for Nandhini -->
-
-<!-- Header Section -->
+<!-- ✨ Aesthetic Wavy Header with Tech Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd,c77dff&height=200&section=header&text=Hi,%20I'm%20Nandhini%20👩‍💻&fontSize=40&fontAlignY=35&desc=Full-Stack%20Learner%20%7C%20ECE%20Student&descAlignY=60&descAlign=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd,c77dff&height=200&section=header&text=Hi,%20I'm%20Nandhini%20👩‍💻&fontSize=40&fontAlignY=35&desc=ECE%20Student%20%7C%20Full-Stack%20Learner&descAlignY=60&descAlign=62&fontColor=ffffff" />
 </p>
 
-<!-- Tech Emojis Section -->
-<h3 align="center">👩‍💻 Passionate About Code • 🎯 Goal-Oriented • ⚙️ Tech Explorer</h3>
+<!-- 🖋️ Typing Animated Description -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&height=50&lines=Exploring+Frontend+and+Backend+Tech✨;Building+creative+projects+with+React+and+MongoDB🛠️;Passionate+about+design+%26+clean+code💡;Welcome+to+my+tech+space!💻" />
+</h3>
 
-<!-- Badges and Stats -->
+<!-- 🎯 Connect and Profile Stats -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nandhini-ravi-76067525a/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="nandhiniplaniyappan@gmail.com">
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nandhinisr&style=for-the-badge&color=purple" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nandhinisr&style=for-the-badge&color=c77dff&label=PROFILE+VIEWS" />
 </p>
 
-<!-- Divider -->
-<hr style="border: 1px solid #c77dff;" />
-
-<!-- Short Intro -->
+<!-- 💜 Small Bio Section -->
 <p align="center">
-  🌸 Hey there! I'm <b>Nandhini</b> — an <b>ECE Student</b> with a passion for <b>Web Development</b> and 💡 creative tech ideas.<br>
-  I'm currently exploring the <b>MERN stack</b>, designing cool UI/UX layouts, and building full-stack projects with a spark of innovation.
+  <strong>💻 Nandhini | ECE Undergrad | MERN Stack Enthusiast 💡</strong><br><br>
+  🚀 Currently learning React.js, Node.js, MongoDB and building cool full-stack projects.<br>
+  🎯 Tech lover focused on clean UI, API integration & real-world solutions.<br>
+  ✨ Let's connect and build something awesome!
 </p>
+
 
 ## 🧠 Play My Memory Card Game!
 
 <p align="center">
-  <iframe src="https://srnandhini.github.io/memory-game/" width="380" height="440" style="border:2px solid #8a2be2; border-radius:12px;"></iframe>
+  <iframe src="https://srnandhini.github.io/memory-game/" width="380" height="440" style="border:2px solid #8a2be2; border-radius:12px;">PBRAIN TEASER</iframe>
 </p>
 
 ---
@@ -81,13 +81,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <a href="https://www.linkedin.com/in/nandhini-ravi-76067525a/">
     <img src="https://img.shields.io/badge/LinkedIn-Nandhini-blueviolet?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="nandhiniplaniyappan@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/nandhinisr">
+  <a href="https://github.com/SRnandhini">
     <img src="https://img.shields.io/badge/GitHub-nandhinisr-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
