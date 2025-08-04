@@ -1,14 +1,37 @@
 <!-- Redesigned GitHub Profile README for Nandhini -->
 
+<!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b1f,ff6f61&height=200&section=header&text=Hi,%20I'm%20Nandhini%20👩‍💻&fontSize=40&fontAlignY=35&desc=Full-Stack%20Learner%20%7C%20ECE%20Student&descAlignY=60&descAlign=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd,c77dff&height=200&section=header&text=Hi,%20I'm%20Nandhini%20👩‍💻&fontSize=40&fontAlignY=35&desc=Full-Stack%20Learner%20%7C%20ECE%20Student&descAlignY=60&descAlign=62&fontColor=ffffff" />
 </p>
 
+<!-- Tech Emojis Section -->
+<h3 align="center">👩‍💻 Passionate About Code • 🎯 Goal-Oriented • ⚙️ Tech Explorer</h3>
+
+<!-- Badges and Stats -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/nandhini-ravi-76067525a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="nandhiniplaniyappan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=nandhinisr&style=for-the-badge&color=purple" alt="Profile views" />
+</p>
+
+<!-- Divider -->
+<hr style="border: 1px solid #c77dff;" />
+
+<!-- Short Intro -->
+<p align="center">
+  🌸 Hey there! I'm <b>Nandhini</b> — an <b>ECE Student</b> with a passion for <b>Web Development</b> and 💡 creative tech ideas.<br>
+  I'm currently exploring the <b>MERN stack</b>, designing cool UI/UX layouts, and building full-stack projects with a spark of innovation.
+</p>
+
+## 🧠 Play My Memory Card Game!
+
+<p align="center">
+  <iframe src="https://srnandhini.github.io/memory-game/" width="380" height="440" style="border:2px solid #8a2be2; border-radius:12px;"></iframe>
 </p>
 
 ---
@@ -52,14 +75,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandhinisr&show_icons=true&theme=tokyonight&border_radius=10" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhinisr&layout=compact&theme=tokyonight" width="47%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandhinisr&theme=tokyonight&hide_border=true" width="80%" />
-</div>
 
 ---
 
