@@ -12,7 +12,7 @@
 
 <!-- 💜 Small Bio Section -->
 <p align="center">
-  <strong>💻 Nandhini | ECE Undergrad | MERN Stack Enthusiast 💡</strong><br><br>
+  <strong>💻 Nandhini | ECE Graduate | MERN Stack Enthusiast 💡</strong><br><br>
   🚀 Currently learning React.js, Node.js, MongoDB and building cool full-stack projects.<br>
   🎯 Tech lover focused on clean UI, API integration & real-world solutions.<br>
   ✨ Let's connect and build something awesome!
